@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92870990.css",
+    "main.js": "/static/js/main.8cc09974.js",
+    "static/js/453.343a9aeb.chunk.js": "/static/js/453.343a9aeb.chunk.js",
+    "static/media/fonnts.com-SFNS_Display_Bold.ttf": "/static/media/fonnts.com-SFNS_Display_Bold.b68d4b81282342ec9f9e.ttf",
+    "static/media/cover2.jpg": "/static/media/cover2.ca80fd0ff32aa76011d6.jpg",
+    "index.html": "/index.html",
+    "main.92870990.css.map": "/static/css/main.92870990.css.map",
+    "main.8cc09974.js.map": "/static/js/main.8cc09974.js.map",
+    "453.343a9aeb.chunk.js.map": "/static/js/453.343a9aeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92870990.css",
+    "static/js/main.8cc09974.js"
+  ]
+}
