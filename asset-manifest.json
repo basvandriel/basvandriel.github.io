@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6f22e76.css",
+    "main.js": "/static/js/main.95447dee.js",
+    "static/js/453.f2b0987e.chunk.js": "/static/js/453.f2b0987e.chunk.js",
+    "static/media/EBGaramond-SemiBold.ttf": "/static/media/EBGaramond-SemiBold.73ca3d099b7e95d31c5d.ttf",
+    "static/media/EBGaramond-Medium.ttf": "/static/media/EBGaramond-Medium.0b56e377f66cf8f449f0.ttf",
+    "static/media/EBGaramond-Bold.ttf": "/static/media/EBGaramond-Bold.4a3c787c6b54ac570a9f.ttf",
+    "static/media/EBGaramond-ExtraBold.ttf": "/static/media/EBGaramond-ExtraBold.2043499ab92e81af5baf.ttf",
+    "static/media/EBGaramond-Regular.ttf": "/static/media/EBGaramond-Regular.639c0c8d2c681d29c6be.ttf",
+    "static/media/fonnts.com-SFNS_Display_Bold.ttf": "/static/media/fonnts.com-SFNS_Display_Bold.b68d4b81282342ec9f9e.ttf",
+    "static/media/cover2.jpg": "/static/media/cover2.ca80fd0ff32aa76011d6.jpg",
+    "index.html": "/index.html",
+    "main.e6f22e76.css.map": "/static/css/main.e6f22e76.css.map",
+    "main.95447dee.js.map": "/static/js/main.95447dee.js.map",
+    "453.f2b0987e.chunk.js.map": "/static/js/453.f2b0987e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f22e76.css",
+    "static/js/main.95447dee.js"
+  ]
+}
